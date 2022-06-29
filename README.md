@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple recipes website, part of the Odin Project curiculum
